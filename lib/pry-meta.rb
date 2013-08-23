@@ -1,4 +1,4 @@
 require "pry"
 require "pry-remote"
-require "pry-nav"
+require "pry-debugger"
 require "awesome_print"
