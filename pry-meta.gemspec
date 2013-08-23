@@ -18,5 +18,6 @@ Gem::Specification.new do |gem|
   gem.add_dependency "pry-remote"
   gem.add_dependency "pry-stack_explorer"
   gem.add_dependency "pry-debugger"
+  gem.add_dependency "pry-doc"
   gem.add_dependency "awesome_print"
 end
