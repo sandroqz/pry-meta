@@ -1,4 +1,5 @@
 require "pry"
 require "pry-remote"
+require "pry-stack_explorer"
 require "pry-debugger"
 require "awesome_print"

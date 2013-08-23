@@ -4,6 +4,7 @@ A meta package that includes the following gems:
 * [pry](https://github.com/pry/pry)
 * [pry-debugger](https://github.com/nixme/pry-debugger)
 * [pry-remote](https://github.com/Mon-Ouie/pry-remote)
+* [pry-stack_explorer](https://github.com/pry/pry-stack_explorer)
 
 ## Installation
 
